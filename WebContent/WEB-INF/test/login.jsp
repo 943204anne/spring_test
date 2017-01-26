@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
-<title>Login1</title>
+<title>Login</title>
 <style type="text/css">
 
 </style>
